@@ -1,6 +1,6 @@
 # Anna Shchebunyaeva
 
-![Profile Photo](photo.jpeg)
+<img src="./photo.jpeg" alt="Profile Photo" width="200"/>
 
 ---
 
