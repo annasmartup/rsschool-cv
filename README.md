@@ -1,1 +1,1 @@
-# rssschool-cv
+https://annasmartup.github.io/rsschool-cv/cv
